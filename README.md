@@ -43,4 +43,4 @@ npm run dev       # App → http://localhost:5173 (proxy /api → :8080)
 | `/planos` | Contratar anúncio no topo |
 | `/login` | Google → `GET /api/v1/auth/google` |
 | `/auth/callback` | Após OAuth → `GET /api/v1/auth/google/profile` |
-| `/admin` | Login admin (só nesta rota) |
+
